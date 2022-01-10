@@ -20,7 +20,7 @@
 
 - [ ] [Nuts and Bolts Problem](https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1)
 
-- [ ] [Tree Serialization and Deserialization](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1)
+- [x] [Tree Serialization and Deserialization](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1)
 
 - [x] [Column name from a given column number](https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1/)
 
