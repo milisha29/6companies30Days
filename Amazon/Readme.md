@@ -16,7 +16,7 @@
 
 - [x] [Count ways to N'th Stair(Order does not matter)](https://practice.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter1322/1/)
 
-- [ ] [Which among them forms a perfect Sudoku Pattern ?](https://practice.geeksforgeeks.org/problems/is-sudoku-valid4820/1/)
+- [x] [Which among them forms a perfect Sudoku Pattern ?](https://practice.geeksforgeeks.org/problems/is-sudoku-valid4820/1/)
 
 - [ ] [Nuts and Bolts Problem](https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1)
 
