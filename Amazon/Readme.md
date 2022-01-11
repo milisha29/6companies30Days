@@ -18,7 +18,7 @@
 
 - [x] [Which among them forms a perfect Sudoku Pattern ?](https://practice.geeksforgeeks.org/problems/is-sudoku-valid4820/1/)
 
-- [ ] [Nuts and Bolts Problem](https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1)
+- [x] [Nuts and Bolts Problem](https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1)
 
 - [x] [Tree Serialization and Deserialization](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1)
 
