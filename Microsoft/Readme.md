@@ -8,7 +8,7 @@
 ✅ 3.Rotate by 90 degree<a href="https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/">Link</a>  
 ✅ 4. Given a matrix of size r*c. Traverse the matrix in spiral form. <a href="https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/">Link</a>  
 ✅ 5. Stock span problem<a href="https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1">Link</a>  
-⬜ 6.Possible Words From Phone Digits<a href="https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1/">Link</a>  
+✅ 6.Possible Words From Phone Digits<a href="https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1/">Link</a>  
 ✅ 7.Unit Area of largest region of 1's <a href="https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1/">Link</a>  
 ✅ 8.Connect Nodes at Same Level<a href="https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1/">Link</a>  
 ✅ 9.Count Number of SubTrees having given Sum <a href="https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1/">Link</a>  
